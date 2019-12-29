@@ -7,7 +7,7 @@ possible future moves and evaluating the game's state.
 From here, the best possible move is chosen. It features a pre-computed 
 look-up table for fast board evaluations and different player variations including; 
 a random insertion AI, a minimax AI, an alpha beta pruning minimax AI and human input. 
-A demonstration of a minimax tree is shown below.<br/>
+A demonstration of a minimax tree is shown below.
 
 <img width="1091" alt="minimax" src="https://user-images.githubusercontent.com/43489707/71558260-2fe92380-2aa5-11ea-8758-45b1302c9ab0.png">
 
