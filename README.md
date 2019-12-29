@@ -9,7 +9,7 @@ look-up table for fast board evaluations and different player variations includi
 a random insertion AI, a minimax AI, an alpha beta pruning minimax AI and human input. 
 A demonstration of a minimax tree is shown below.
 
-<img width="1091" alt="minimax" src="https://user-images.githubusercontent.com/43489707/71558260-2fe92380-2aa5-11ea-8758-45b1302c9ab0.png">
+<img width="1091" alt="minimax" src="https://user-images.githubusercontent.com/43489707/71558371-c10cca00-2aa6-11ea-95de-30e57ee7ac04.png">
 
 <h2>Board Evaluation</h2>
 The evaluation function simply looks all possible ways to make a four in a row and scores the board accordingly. 
