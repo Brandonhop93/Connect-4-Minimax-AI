@@ -3,7 +3,7 @@ To compile and use in command line:
 - cd C:\YOUR_DIR\Connect4\src
 - javac *.java
 - java InterfaceCustom
-AI type and search depth is changable in Interface Custom.
+AI type and search depth is changeable in Interface Custom.
 
 
 
